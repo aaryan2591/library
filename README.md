@@ -30,11 +30,11 @@ learning objects and constructors in JavaScript.
 
 ## Run it locally
 
-\`\`\`bash
+```bash
 git clone https://github.com/aaryan2591/library.git
 cd library
 open index.html
-\`\`\`
+```
 
 ## Part of
 
