@@ -1,4 +1,4 @@
-📚 Library
+# 📚 Library
 
 A simple book-tracking app — add books to your shelf, mark them as 
 read or unread, and remove the ones you're done with. Built while 
@@ -27,6 +27,14 @@ learning objects and constructors in JavaScript.
 - Working with the native `<dialog>` element for modals
 - DOM manipulation and rendering data dynamically
 - Form handling and validation
+
+## Run it locally
+
+\`\`\`bash
+git clone https://github.com/aaryan2591/library.git
+cd library
+open index.html
+\`\`\`
 
 ## Part of
 
